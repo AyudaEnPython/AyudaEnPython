@@ -2,9 +2,10 @@
 
 ## Descripción
 
-Repositorio de la comunidad [Ayuda en Python](www.facebook.com/groups/ayudaenpython/) dedicada a brindar apoyo a
-cualquier problema sobre Python (principiante, intermedio, avanzado),
-compartir información, conocimientos y experiencias relacionadas a `Python`.
+Nuestra comunidad [Ayuda en Python](www.facebook.com/groups/ayudaenpython/)
+se dedica a brindar apoyo a cualquier problema sobre Python (principiante,
+intermedio, avanzado), compartiendo información, conocimientos y experiencias
+relacionadas a `Python`.
 
 ```python
 def saludar(nombre: str) -> str:
@@ -51,9 +52,9 @@ if __name__ == "__main__":
 
     Nos esforzamos en brindar un ambiente en el cual los miembros de este grupo
     puedan relacionarse de una manera saludable.
-    Al momento de ingresar al grupo, aceptaste las reglas del mismo y por tal motivo,
-    el infrigimiento de una o más reglas conllevarán a una amonestación la cual
-    limitará tu participación en el grupo.
+    Al momento de ingresar al grupo, aceptaste las reglas del mismo y por tal
+    motivo, el infrigimiento de una o más reglas conllevarán a una amonestación
+    la cual limitará tu participación en el grupo.
     La reincidencia de infrigimientos tendrán como efecto inmediato tu expulsión
     definitiva de este grupo.
 
@@ -91,8 +92,8 @@ if __name__ == "__main__":
 
     Se permite la colaboración (artículos, videotutoriales, enlaces, archivos,
     imágenes, porciones de código, etc) siempre y cuando el autor haya contribuido
-    de forma regular en el grupo (ayudado a otros integrantes) y su contenido sea de
-    calidad.
+    de forma regular en el grupo (ayudado a otros integrantes) y su contenido sea
+    de calidad.
     Si el contenido fomenta el uso de "wildcard imports" lo más probable es que sea
     rechazado (Zen of Python).
 
@@ -107,7 +108,7 @@ if __name__ == "__main__":
 
     La aceptación de tu publicación dependerá del criterio de los administradores
     y si esta no infringe ninguna las reglas del grupo. Si por el contrario tu
-    publicación es denegada, vuelve a redactarla tomando en cuenta la retroalimentación
-    que se brindó.
-    Ten en cuenta que no se aceptan publicaciones duplicadas ni se aceptan publicaciones
-    de miembros amonestados.
+    publicación es denegada, vuelve a redactarla tomando en cuenta la
+    retroalimentación que se brindó.
+    Ten en cuenta que no se aceptan publicaciones duplicadas ni se aceptan
+    publicaciones de miembros amonestados.
