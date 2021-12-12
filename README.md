@@ -74,20 +74,23 @@ if __name__ == "__main__":
     resultar molestas u ofensivas tendrán como resultado una amonestación; en caso
     de reincidencia, resultará en la expulsión inmediata de este grupo.
 
-7. __No publiques promociones ni spam__
+7. __No publiques promocionesm, spam o sugieras cobros__
 
     En este grupo no se permite la autopromoción, memes, spams ni  enlaces
-    irrelevantes. Tampoco se incentiva el cobro por brindar ayuda. Toda ayuda es
-    solidaria y gratuita en este grupo. Si tu finalidad es percibir una remuneración
-    por realizar un ejercicio, tarea, trabajo, y/o proyecto, estas en el grupo
-    equivocado.
+    irrelevantes. Tampoco se incentiva el cobro por brindar ayuda. Toda
+    ayuda es SOLIDARIA, GRATUITA y PÚBLICA en este grupo.
+    Si tu finalidad es percibir una remuneración por realizar un ejercicio,
+    tarea, trabajo, y/o proyecto, estas en el grupo equivocado.
     La finalidad del grupo es clara y esta definida en la descripción del mismo.
 
 8. __Colaboración__
 
-    Se permite la colaboración (tutoriales, enlaces, archivos, imágenes,
-    porciones de código) siempre y cuando el autor haya contribuido de
-    forma regular en el grupo (ayudado a otros integrantes).
+    Se permite la colaboración (artículos, videotutoriales, enlaces, archivos,
+    imágenes, porciones de código, etc) siempre y cuando el autor haya contribuido
+    de forma regular en el grupo (ayudado a otros integrantes) y su contenido sea de
+    calidad.
+    Si el contenido fomenta el uso de "wildcard imports" lo más probable es que sea
+    rechazado (Zen of Python).
 
 9. __No elimines publicaciones y/o comentarios__
 
