@@ -47,11 +47,15 @@ if __name__ == "__main__":
     códigos anteriores o el avance que tienes, capturas de pantalla, y todo tipo
     de información que consideres relevante al problema.
 
-3. __Ayuda lo más que puedas__
+3. __Amonestaciones y Expulsiones__
 
-    Trata de brindar todo el apoyo que puedas dar si ves que otro miembro de la
-    comunidad lo necesita. No importa el nivel que tengas, habrá oportunidad de
-    darle la mano a alguien en algun momento.
+    Nos esforzamos en brindar un ambiente en el cual los miembros de este grupo
+    puedan relacionarse de una manera saludable.
+    Al momento de ingresar al grupo, aceptaste las reglas del mismo y por tal motivo,
+    el infrigimiento de una o más reglas conllevarán a una amonestación la cual
+    limitará tu participación en el grupo.
+    La reincidencia de infrigimientos tendrán como efecto inmediato tu expulsión
+    definitiva de este grupo.
 
 4. __Sé amable, cordial y respetuoso__
 
