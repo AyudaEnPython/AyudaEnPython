@@ -7,6 +7,7 @@ Si tuviera que ser modificado el enunciado, lo haría aquí.
 # ---------------------------------------------------------------------
 NOTE: Notas sobrel el enunciado del problema.
 """
+from typing import Dict, List, Tuple
 from unittest import main, TestCase
 
 
