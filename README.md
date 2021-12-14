@@ -25,6 +25,19 @@ if __name__ == "__main__":
     nombre = input("Ingresa tu nombre: ")
     print(saludar(nombre))
 ```
+---
+
+## Nuestros Repositorios
+
+* [Soluciones](https://github.com/AyudaEnPython/Soluciones):
+  Repositorio de soluciones en Python (comunidad AyudaEnPython) de diversos
+  niveles (principiante, intermedio, avanzado).
+
+* [Proyectos](https://github.com/AyudaEnPython/Proyectos):
+  Proyectos realizados por la comunidad AyudaEnPython
+
+> _*NOTA*_: Conforme se vayan agregando más repositorios, esta lista se irá
+> actualizando.
 
 ---
 
