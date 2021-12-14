@@ -47,6 +47,7 @@ if __name__ == "__main__":
     específico y brindar más detalles en la publicación como material de lectura,
     códigos anteriores o el avance que tienes, capturas de pantalla, y todo tipo
     de información que consideres relevante al problema.
+    Las publicaciones de cuentas secundarias/falsas serán revisadas (ver regla 10).
 
 3. __Amonestaciones y Expulsiones__
 
@@ -112,3 +113,4 @@ if __name__ == "__main__":
     retroalimentación que se brindó.
     Ten en cuenta que no se aceptan publicaciones duplicadas ni se aceptan
     publicaciones de miembros amonestados.
+    Si tu perfil es falso (existes varios mecanismos para corroborarlo), lo más probable es que tu publicación no sea aceptada.
