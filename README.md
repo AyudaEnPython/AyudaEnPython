@@ -1,4 +1,4 @@
-![maintenance](https://img.shields.io/maintenance/yes/2021)
+![maintenance](https://img.shields.io/maintenance/yes/2022)
 
      _____           _        _____        _____     _   _           
     |  _  |_ _ _ _ _| |___   |   __|___   |  _  |_ _| |_| |_ ___ ___ 
@@ -132,4 +132,5 @@ if __name__ == "__main__":
     retroalimentación que se brindó.
     Ten en cuenta que no se aceptan publicaciones duplicadas ni se aceptan
     publicaciones de miembros amonestados.
-    Si tu perfil es falso (existes varios mecanismos para corroborarlo), lo más probable es que tu publicación no sea aceptada.
+    Si tu perfil es falso (existes varios mecanismos para corroborarlo), lo más
+    probable es que tu publicación no sea aceptada.
