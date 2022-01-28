@@ -5,9 +5,10 @@ Aqui va el enunciado del problema
 # ------------------------ Enunciado Modificado -----------------------
 Si tuviera que ser modificado el enunciado, lo haría aquí.
 # ---------------------------------------------------------------------
-NOTE: Notas sobrel el enunciado del problema.
+NOTE: Notas sobr el el enunciado del problema.
+TODO: add docstring and tests.
 """
-from typing import Dict, List, Tuple
+from typing import Any, Callable, Dict, List, Optional, Tuple, Union
 from unittest import main, TestCase
 
 
