@@ -23,10 +23,11 @@ jobs:
         run: python main.py
       - name: setup git config
         run: |
-          git config user.name "AyudaEnPython BOT"
-          git config user.mail "<>"
-      - name: commit and push
+          git config --local user.name "AyudaEnPython BOT"
+          git config --local user.mail "<>"
+      - name: commit files
         run: |
+          git add -A
           git commit -m "update: readme" -a
 
       - name: push changes
