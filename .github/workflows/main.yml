@@ -1,5 +1,4 @@
-name: ayuda-en-python-CI
-
+name: Ayuda en Python CI
 on:
   push:
     branches:
@@ -7,7 +6,6 @@ on:
   pull_request:
     branches:
       - main
-
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -23,7 +21,11 @@ jobs:
           pip install -r requirements.txt
       - name: execute main py script
         run: python main.py
+      - name: setup git config
+        run: |
+          git config user.name "AyudaEnPython BOT"
+          git config user.mail "<>"
       - name: commit and push
         run: |
           git commit -am "update: readme"
-          git push
+          git push origin main
