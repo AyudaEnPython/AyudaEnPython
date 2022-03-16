@@ -11,7 +11,7 @@ REGLAS = "_readme/reglas.md"
 
 readme = Template('''\
 ![maintenance](https://img.shields.io/maintenance/yes/{{year}})
-
+[![Ayuda en Python CI](https://github.com/AyudaEnPython/AyudaEnPython/actions/workflows/main.yml/badge.svg)](https://github.com/AyudaEnPython/AyudaEnPython/actions/workflows/main.yml)
 {{logo}}              
 
 ## Descripción
