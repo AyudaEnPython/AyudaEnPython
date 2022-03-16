@@ -4,7 +4,7 @@
     |  _  |_ _ _ _ _| |___   |   __|___   |  _  |_ _| |_| |_ ___ ___ 
     |     | | | | | . | .'|  |   __|   |  |   __| | |  _|   | . |   |
     |__|__|_  |___|___|__,|  |_____|_|_|  |__|  |_  |_| |_|_|___|_|_|
-          |___|                                 |___|                
+          |___|                                 |___|                             
 
 ## Descripción
 
@@ -18,7 +18,7 @@ def saludar(nombre: str) -> str:
     """Saludo de bienvenida a los integrantes de la comunidad
     'Ayuda en Python'.
 
-    :param nombre: Nombre de usuario
+    :param nombre: Nombre del usuario
     :type nombre: str
     :return: Mensaje de bienvenida
     :rtype: str
@@ -35,9 +35,9 @@ if __name__ == "__main__":
 
 ## Nuestros Repositorios
 
+
 * [Soluciones](https://github.com/AyudaEnPython/Soluciones):
-  Repositorio de soluciones en Python (comunidad AyudaEnPython) de diversos
-  niveles (principiante, intermedio, avanzado).
+  Repositorio de soluciones en Python (comunidad AyudaEnPython) de diversos niveles (principiante, intermedio, avanzado).
 
 * [Proyectos](https://github.com/AyudaEnPython/Proyectos):
   Proyectos realizados por la comunidad AyudaEnPython
@@ -49,7 +49,7 @@ if __name__ == "__main__":
 
 ## Reglas de la Comunidad
 
-1. __Practica,  sé solidario y ayuda lo más que puedas__
+1. __Practica, sé solidario y ayuda lo más que puedas__
 
     Nadie nace programando, solo a través de la práctica se adquiere experiencia.
     Si entraste al grupo buscando ayuda, en el futuro trata de retribuir la ayuda
@@ -101,7 +101,7 @@ if __name__ == "__main__":
 
 7. __No publiques promocionesm, spam o sugieras cobros__
 
-    En este grupo no se permite la autopromoción, memes, spams ni  enlaces
+    En este grupo no se permite la autopromoción, memes, spams ni enlaces
     irrelevantes. Tampoco se incentiva el cobro por brindar ayuda. Toda
     ayuda es SOLIDARIA, GRATUITA y PÚBLICA en este grupo.
     Si tu finalidad es percibir una remuneración por realizar un ejercicio,
