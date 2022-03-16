@@ -27,5 +27,8 @@ jobs:
           git config user.mail "<>"
       - name: commit and push
         run: |
-          git commit -am "update: readme"
+          git commit -m "update: readme" -a
+
+      - name: push changes
+        run: |
           git push origin main
