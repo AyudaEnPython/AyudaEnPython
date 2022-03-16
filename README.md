@@ -42,6 +42,9 @@ if __name__ == "__main__":
 * [Proyectos](https://github.com/AyudaEnPython/Proyectos):
   Proyectos realizados por la comunidad AyudaEnPython
 
+* [Blog](https://github.com/AyudaEnPython/Blog):
+  Sitio web de la comunidad AyudaEnPython
+
 > _*NOTA*_: Conforme se vayan agregando más repositorios, esta lista se irá
 > actualizando.
 
