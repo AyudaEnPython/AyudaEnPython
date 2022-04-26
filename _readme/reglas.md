@@ -66,7 +66,7 @@
     de calidad.
     Si el contenido fomenta el uso de "wildcard imports" lo más probable es que sea
     rechazado (Zen of Python).
-    Si la imagen de tu publicación hace una referencia indirecta a algun canal,
+    Si la imagen de tu publicación hace una referencia indirecta a algún canal,
     página o promoción, edítala cubriendo tales referencias.
 
 9. __No elimines publicaciones y/o comentarios__
