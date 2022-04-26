@@ -69,8 +69,9 @@ if __name__ == "__main__":
     Para consultas de mayor complejidad (intermedio a más), deberás ser más
     específico y brindar más detalles en la publicación como material de lectura,
     códigos anteriores o el avance que tienes, capturas de pantalla, y todo tipo
-    de información que consideres relevante al problema.
-    Las publicaciones de cuentas secundarias/falsas serán revisadas (ver regla 10).
+    de información que consideres relevante al problema; caso contrario la
+    publicación será rechazada.
+    Cuentas secundarias/falsas ver regla 10.
 
 3. __Amonestaciones y Expulsiones__
 
@@ -120,6 +121,8 @@ if __name__ == "__main__":
     de calidad.
     Si el contenido fomenta el uso de "wildcard imports" lo más probable es que sea
     rechazado (Zen of Python).
+    Si la imagen de tu publicación hace una referencia indirecta a algun canal,
+    página o promoción, edítala cubriendo tales referencias.
 
 9. __No elimines publicaciones y/o comentarios__
 
@@ -131,10 +134,9 @@ if __name__ == "__main__":
 10. __Tu publicación será revisada__
 
     La aceptación de tu publicación dependerá del criterio de los administradores
-    y si esta no infringe ninguna las reglas del grupo. Si por el contrario tu
-    publicación es denegada, vuelve a redactarla tomando en cuenta la
-    retroalimentación que se brindó.
-    Ten en cuenta que no se aceptan publicaciones duplicadas ni se aceptan
-    publicaciones de miembros amonestados.
-    Si tu perfil es falso (existes varios mecanismos para corroborarlo), lo más
-    probable es que tu publicación no sea aceptada.
+    y si esta no infringe ninguna las reglas. Si por el contrario tu publicación
+    es denegada, vuelve a redactarla tomando en cuenta la retroalimentación que
+    se brindó.
+    Ten en cuenta que no se aceptan publicaciones duplicadas, de miembros
+    amonestados y aquellas cuyo contenido tenga promociones (ver regla 8).
+    Si el perfil es falso, lo más probable es que la publicación no sea aceptada.
