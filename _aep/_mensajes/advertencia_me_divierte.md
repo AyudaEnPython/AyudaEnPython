@@ -7,8 +7,8 @@ evita usar 'me divierte' como burla o por molestar. Si crees que una persona
 esta molestándote, no dudes en reportar; los reportes son anónimos y tomaremos
 las medidas correspondientes (amonestación o separación definitiva del grupo).
 
-NO TOLERAREMOS esa clase de comportamiento por parte de ningun miembro, por
-lo tanto los "me divierte" serán expulsados y bloqueados automáticamente.
+NO TOLERAREMOS esa clase de comportamiento por parte de ningún miembro, por
+lo tanto los "me divierte" (de esta publicación) serán expulsados y bloqueados automáticamente.
 
 Enlaces:
 https://www.facebook.com/groups/ayudapython/about
