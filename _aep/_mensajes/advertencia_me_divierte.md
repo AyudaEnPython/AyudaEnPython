@@ -8,7 +8,8 @@ esta molestándote, no dudes en reportar; los reportes son anónimos y tomaremos
 las medidas correspondientes (amonestación o separación definitiva del grupo).
 
 NO TOLERAREMOS esa clase de comportamiento por parte de ningún miembro, por
-lo tanto los "me divierte" (de esta publicación) serán expulsados y bloqueados automáticamente.
+lo tanto los "ME DIVIERTE" (de esta publicación) serán EXPULSADOS y BLOQUEADOS
+automáticamente.
 
 Enlaces: \
 [https://www.facebook.com/groups/ayudapython/about](https://www.facebook.com/groups/ayudapython/about) \
