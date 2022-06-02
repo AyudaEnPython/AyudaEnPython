@@ -18,10 +18,8 @@ Este comunidad se rige por reglamentos establecidos los cuales aceptaron
 al momento de de unirse en el. De no estar conforme con ellos, en cualquier
 momento son libres de retirarse y unirse a otro grupo.
 
-Enlaces:
-
-[https://www.facebook.com/groups/ayudapython/about](https://www.facebook.com/groups/ayudapython/about)
-
+Enlaces: \
+[https://www.facebook.com/groups/ayudapython/about](https://www.facebook.com/groups/ayudapython/about) \
 [https://github.com/AyudaEnPython/AyudaEnPython/blob/main/_readme/reglas.md](https://github.com/AyudaEnPython/AyudaEnPython/blob/main/_readme/reglas.md)
 
 ---
