@@ -37,9 +37,9 @@
 
 5. __Reacciones/respuestas a publicaciones/comentarios__
 
-    Se cuidadoso al momento de reaccionar ante una publicacion y/o comentario,
+    Se cuidadoso al momento de reaccionar ante una publicación y/o comentario,
     evita usar 'me divierte' como burla o por molestar. Si crees que una persona
-    esta molestándote, no dudes en reportar; los reportes son anóminos y tomaremos
+    esta molestándote, no dudes en reportar; los reportes son anónimos y tomaremos
     las medidas correspondientes (amonestación o separación definitiva del grupo).
 
 6. __No hagas bullying ni uses lenguaje ofensivo__
