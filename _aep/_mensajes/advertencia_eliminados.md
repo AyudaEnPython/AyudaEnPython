@@ -11,8 +11,11 @@ algún miembro del grupo o aquellos que visitan el grupo pero no forman parte de
 comunidad.
 
 Enlaces:
-https://www.facebook.com/groups/ayudapython/about
-https://github.com/AyudaEnPython/AyudaEnPython/blob/main/_readme/reglas.md
+
+[https://www.facebook.com/groups/ayudapython/about](https://www.facebook.com/groups/ayudapython/about)
+
+[https://github.com/AyudaEnPython/AyudaEnPython/blob/main/_readme/reglas.md](https://github.com/AyudaEnPython/AyudaEnPython/blob/main/_readme/reglas.md)
+
 ---
 
 ... Detalles

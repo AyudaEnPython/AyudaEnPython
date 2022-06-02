@@ -11,8 +11,11 @@ NO TOLERAREMOS esa clase de comportamiento por parte de ningún miembro, por
 lo tanto los "me divierte" (de esta publicación) serán expulsados y bloqueados automáticamente.
 
 Enlaces:
-https://www.facebook.com/groups/ayudapython/about
-https://github.com/AyudaEnPython/AyudaEnPython/blob/main/_readme/reglas.md
+
+[https://www.facebook.com/groups/ayudapython/about](https://www.facebook.com/groups/ayudapython/about)
+
+[https://github.com/AyudaEnPython/AyudaEnPython/blob/main/_readme/reglas.md](https://github.com/AyudaEnPython/AyudaEnPython/blob/main/_readme/reglas.md)
+
 ---
 
 A nuestros demás miembros les pedimos que REPORTEN a aquellos que le dan "ME

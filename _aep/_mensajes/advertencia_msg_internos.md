@@ -11,8 +11,11 @@ Si la intención es recibir remuneración alguna por ayuda, son libres de retira
 e ir a otros grupos que lo permitan.
 
 Enlaces:
-https://www.facebook.com/groups/ayudapython/about
-https://github.com/AyudaEnPython/AyudaEnPython/blob/main/_readme/reglas.md
+
+[https://www.facebook.com/groups/ayudapython/about](https://www.facebook.com/groups/ayudapython/about)
+
+[https://github.com/AyudaEnPython/AyudaEnPython/blob/main/_readme/reglas.md](https://github.com/AyudaEnPython/AyudaEnPython/blob/main/_readme/reglas.md)
+
 ---
 
 ... Detalles
