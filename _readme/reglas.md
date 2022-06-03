@@ -25,7 +25,7 @@
     Al momento de ingresar al grupo, aceptaste las reglas del mismo y por tal
     motivo, el infrigimiento de una o más reglas conllevarán a una amonestación
     la cual limitará tu participación en el grupo.
-    La reincidencia de infrigimientos tendrán como efecto inmediato tu expulsión
+    La reincidencia de infringimientos tendrán como efecto inmediato tu expulsión
     definitiva de este grupo.
 
 4. __Sé amable, cordial y respetuoso__
