@@ -77,7 +77,7 @@ if __name__ == "__main__":
     códigos anteriores o el avance que tienes, capturas de pantalla, y todo tipo
     de información que consideres relevante al problema; caso contrario la
     publicación será rechazada.
-    Cuentas secundarias/falsas ver regla 10.
+    No se permiten sugerencias de pago.
 
 3. __Amonestaciones y Expulsiones__
 
