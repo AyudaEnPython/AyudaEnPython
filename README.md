@@ -67,6 +67,8 @@ if __name__ == "__main__":
     Trata de brindar todo el apoyo que puedas dar si ves que otro miembro de la
     comunidad lo necesita. No importa el nivel que tengas, habrá oportunidad de
     darle la mano a alguien en algun momento.
+    Si entraste al grupo para ayudar evita los mensajes internos y comentarios
+    irrelevantes (reglas 5 y 6).
 
 2. __Al momento de publicar tu consulta/duda/problema__
 
@@ -85,7 +87,7 @@ if __name__ == "__main__":
     puedan relacionarse de una manera saludable.
     Al momento de ingresar al grupo, aceptaste las reglas del mismo y por tal
     motivo, el infrigimiento de una o más reglas conllevarán a una amonestación
-    la cual limitará tu participación en el grupo.
+    la cual limitará tu participación en el grupo o a una expulsión inmediata.
     La reincidencia de infringimientos tendrán como efecto inmediato tu expulsión
     definitiva de este grupo.
 
@@ -94,21 +96,31 @@ if __name__ == "__main__":
     Debemos tratarnos con respeto para lograr fomentar un entorno agradable.
     Se puede debatir sobre diversos temas (referentes a Python) siempre que sea
     de forma cordial con los demás.
-    En general, trata a los demás como te gustaría que te traten.
+    En general, trata a los demás como te gustaría que te traten. Por ende, no se
+    permite el bullying, el uso de lenguaje ofensivo, comentarios y/o actitudes
+    que resulten molestas u ofensivas de manera directa o indirecta; de ser el
+    caso tomaremos las medidas correspondientes (ver regla 3).
 
 5. __Reacciones/respuestas a publicaciones/comentarios__
 
-    Se cuidadoso al momento de reaccionar ante una publicación y/o comentario,
-    evita usar 'me divierte' como burla o por molestar. Si crees que una persona
-    esta molestándote, no dudes en reportar; los reportes son anónimos y tomaremos
-    las medidas correspondientes (amonestación o separación definitiva del grupo).
+    Evita comentarios irrelevantes que no aporten/contribuyan a la solución del
+    problema.
+    Se cuidadoso al momento de reaccionar ante una publicación y/o
+    comentario, evita usar 'me divierte' como burla o por molestar. Si crees que
+    una persona esta molestándote, no dudes en reportar; los reportes son anónimos
+    y tomaremos las medidas correspondientes (amonestación o separación definitiva
+    del grupo).
 
-6. __No hagas bullying ni uses lenguaje ofensivo__
+6. __No promovemos los mensajes internos__
 
-    No se permite el bullying, ni los comentarios degradantes que atenten de forma
-    directa o indirecta a otra persona. El uso de palabras o actitudes que puedan
-    resultar molestas u ofensivas tendrán como resultado una amonestación; en caso
-    de reincidencia, resultará en la expulsión inmediata de este grupo.
+    Toda ayuda debe ser SOLIDARIA, GRATUITA Y PÚBLICA; de esta forma todos los
+    miembros tienen la oportunidad de aprender y/o afianzar sus conocimientos.
+    Los mensajes internos tiende a que solo una persona resulte beneficiada y
+    por tal motivo no los promovemos. Además, es muy probable que la otra
+    persona que quiera ayudar por interno lo haga pero esperando alguna
+    remuneración a cambio.
+    Si tu intención es recibir remuneración por ayuda, estas en el grupo
+    equivocado (ver regla 3).
 
 7. __No publiques promocionesm, spam o sugieras cobros__
 
@@ -116,7 +128,7 @@ if __name__ == "__main__":
     irrelevantes. Tampoco se incentiva el cobro por brindar ayuda. Toda
     ayuda es SOLIDARIA, GRATUITA y PÚBLICA en este grupo.
     Si tu finalidad es percibir una remuneración por realizar un ejercicio,
-    tarea, trabajo, y/o proyecto, estas en el grupo equivocado.
+    tarea, trabajo, y/o proyecto, estas en el grupo equivocado (ver regla 3).
     La finalidad del grupo es clara y esta definida en la descripción del mismo.
 
 8. __Colaboración__
@@ -135,7 +147,10 @@ if __name__ == "__main__":
     Toda información compartida en este grupo (en forma de publicación y/o
     comentario) debe permanecer accesible para todos los miembros aún si esta
     no recibió respuesta alguna.
-    De eliminar alguna publicación y/o comentario, serás amonestado.
+    Si te ayudaron en la publicación de tu consulta/problema, esta puede servirle
+    a otro miembro del grupo; por lo tanto, evita la eliminación de la misma.
+    De eliminar alguna publicación y/o comentario, serás amonestado o expulsado
+    (ver regla 3).
 
 10. __Tu publicación será revisada__
 
