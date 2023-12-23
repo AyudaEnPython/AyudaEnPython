@@ -15,8 +15,6 @@ intermedio, avanzado), compartiendo información, conocimientos y experiencias
 relacionadas a `Python`.
 
 ```python
-
-
 def saludar(nombre: str) -> str:
     """Saludo de bienvenida a los integrantes de la comunidad
     'Ayuda en Python'.
@@ -33,7 +31,6 @@ def saludar(nombre: str) -> str:
 if __name__ == "__main__":
     nombre = input("Ingresa tu nombre: ")
     print(saludar(nombre))
-
 ```
 ---
 
