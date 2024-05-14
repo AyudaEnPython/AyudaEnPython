@@ -50,7 +50,7 @@ def read_file(filename: str) -> str:
 def read_repo_data(filename: str, class_: object) -> List[str]:
     with open(filename, "r") as f:
         data = [line.split(";") for line in f.read().splitlines()]
-    return [class_(*line) for line in data[1:]]
+    return [class_(name, description) for name, description in data[1:]]
 
 
 @dataclass
