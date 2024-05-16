@@ -47,7 +47,7 @@ if __name__ == "__main__":
   Repositorio de proyectos realizados por la comunidad AyudaEnPython
 
 * [Revisiones](https://github.com/AyudaEnPython/Revisiones):
-  Repositorio de revisiones de cÃ³digo de diversos niveles (comunidad AyudaEnPython)
+  Repositorio de revisiones de código de diversos niveles (comunidad AyudaEnPython)
 
 * [Retos](https://github.com/AyudaEnPython/Retos):
   Repositorio de retos en Python (comunidad AyudaEnPython)
