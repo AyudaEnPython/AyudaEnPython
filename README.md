@@ -38,7 +38,7 @@ if __name__ == "__main__":
 
 
 * [Soluciones](https://github.com/AyudaEnPython/Soluciones):
-  Repositorio de soluciones en Python (comunidad AyudaEnPython) de diversos niveles (principiante, intermedio, avanzado).
+  Repositorio de soluciones en Python (comunidad AyudaEnPython) de diversos niveles (principiante, intermedio, avanzado)
 
 * [Prompting](https://github.com/AyudaEnPython/Prompting):
   Repositorio de prompts de la comunidad AyudaEnPython
