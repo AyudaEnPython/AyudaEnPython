@@ -1,5 +1,7 @@
 # Comunicado
 
+-- Comunicado --
+
 Avance del sitio web de nuestro grupo incluyendo el proyecto "Generador de Dados Isométrico - Tkinter / patrón MVC" (no se usa ninguna imagen, todo es generado por la aplicación).
 
 Queremos llegar a más personas, formar una gran comunidad solidaria que brinde apoyo tanto a principiantes como avanzados fomentando la práctica y los buenos hábitos al momento de programar.
