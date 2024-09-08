@@ -47,7 +47,7 @@ def read_file(filename: str) -> str:
         return f.read()
 
 
-def read_repo_data(filename: str, class_: object, sep: str = ",") -> List[str]:
+def read_repo_data(filename: str, class_: object, sep: str = ";") -> List[str]:
     with open(filename, "r") as f:
         data = [line.split(sep) for line in f.read().splitlines()]
         print(data)
