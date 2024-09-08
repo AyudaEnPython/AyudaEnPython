@@ -23,7 +23,7 @@ jobs:
         run: python main.py
       - name: setup git config
         run: |
-          git config  user.name "AyudaEnPython BOT"
+          git config user.name "AyudaEnPython BOT"
           git config user.mail "<>"
       - name: commit files
         run: |
