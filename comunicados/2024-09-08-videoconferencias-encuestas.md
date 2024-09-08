@@ -1,4 +1,4 @@
-# Sobre las Videoconferencias
+# Videoconferencias - Encuestas
 
 Seguimos adelante con nuestra propuesta de realizar videoconferencias y, hasta
 el momento, el editor que utilizaremos durante las sesiones será vscode. Sin embargó, aún
