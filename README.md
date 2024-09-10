@@ -38,22 +38,22 @@ if __name__ == "__main__":
 
 
 * [Soluciones](https://github.com/AyudaEnPython/Soluciones):
-  "Repositorio de soluciones en Python (comunidad AyudaEnPython) de diversos niveles (principiante, intermedio, avanzado)"
+  Repositorio de soluciones en Python (comunidad AyudaEnPython) de diversos niveles (principiante, intermedio, avanzado)
 
 * [Prompting](https://github.com/AyudaEnPython/Prompting):
-  "Repositorio de prompts de la comunidad AyudaEnPython"
+  Repositorio de prompts de la comunidad AyudaEnPython
 
 * [Proyectos](https://github.com/AyudaEnPython/Proyectos):
-  "Repositorio de proyectos realizados por la comunidad AyudaEnPython"
+  Repositorio de proyectos realizados por la comunidad AyudaEnPython
 
 * [Revisiones](https://github.com/AyudaEnPython/Revisiones):
-  "Repositorio de revisiones de código de diversos niveles (comunidad AyudaEnPython)"
+  Repositorio de revisiones de código de diversos niveles (comunidad AyudaEnPython)
 
 * [Retos](https://github.com/AyudaEnPython/Retos):
-  "Repositorio de retos en Python (comunidad AyudaEnPython)"
+  Repositorio de retos en Python (comunidad AyudaEnPython)
 
 * [ayudaenpython.github.io](https://github.com/AyudaEnPython/ayudaenpython.github.io):
-  "Sitio web de la comunidad AyudaEnPython"
+  Sitio web de la comunidad AyudaEnPython
 
 > _*NOTA*_: Conforme se vayan agregando más repositorios, esta lista se irá
 > actualizando.
