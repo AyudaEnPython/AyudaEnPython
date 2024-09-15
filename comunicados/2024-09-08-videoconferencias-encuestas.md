@@ -1,5 +1,7 @@
 # Videoconferencias - Encuestas
 
+-- Comunicado para todos los miembros de la comunidad --
+
 Seguimos adelante con nuestra propuesta de realizar videoconferencias y, hasta
 el momento, el editor que utilizaremos durante las sesiones será vscode. Sin embargó, aún
 pueden seguir votando si no lo han hecho.
