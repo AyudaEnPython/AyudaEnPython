@@ -14,4 +14,4 @@ Acabamos de actualizarlo y hemos añadido la aplicación que se aprecia en la im
 
 P.D.: El resaltado de sintaxis de la aplicación esta "en pendiente" por falta de tiempo. Si alguien quisiera añadir esa funcionalidad pueden guiarse de este módulo de mi repo personal: https://github.com/leugimkm/code2img/blob/main/code2img/creator.py
 
-![tkinter-app](./assets/prompting_chatgpt_tkinter_wrapper_ios.png)
+![tkinter-app](./assets/2023-05-26-prompting_chatgpt_tkinter_wrapper_ios.png)

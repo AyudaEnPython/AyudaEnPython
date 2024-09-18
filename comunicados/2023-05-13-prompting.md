@@ -10,4 +10,4 @@ Nota: dentro de "apps" tienen una versión alternativa al ChatBot presentado en 
 
 Enlace: https://github.com/AyudaEnPython/Prompting
 
-![prompting](./assets/prompting-chatgpt.png)
+![prompting](./assets/2023-05-13-prompting-chatgpt.png)
