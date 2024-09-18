@@ -15,3 +15,5 @@ para establecer esas preferencias.
 Sus opiniones son muy importantes para nosotros. Si tienen otras sugerencias
 sobre cómo podemos la participación y el valor de este grupo, ¡no duden en
 compartirlas!
+
+![Videoconferencias](./assets/2024-09-08-videoconferences.png)
