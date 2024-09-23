@@ -52,6 +52,9 @@ if __name__ == "__main__":
 * [Retos](https://github.com/AyudaEnPython/Retos):
   Repositorio de retos en Python (comunidad AyudaEnPython)
 
+* [Herramientas](https://github.com/AyudaEnPython/Herramientas):
+  Repositorio de Herramientas de la comunidad AyudaEnPython
+
 * [ayudaenpython.github.io](https://github.com/AyudaEnPython/ayudaenpython.github.io):
   Sitio web de la comunidad AyudaEnPython
 
