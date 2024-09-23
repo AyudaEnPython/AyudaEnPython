@@ -1,4 +1,3 @@
-Nuestra comunidad [Ayuda en Python](www.facebook.com/groups/ayudaenpython/)
-se dedica a brindar apoyo a cualquier problema sobre Python (principiante,
-intermedio, avanzado), compartiendo información, conocimientos y experiencias
-relacionadas a `Python`.
+Somos una [comunidad](www.facebook.com/groups/ayudaenpython/) dedicada a brindar apoyo y resolver cualquier duda, problema
+o consulta, ya sea de nivel principiante, intermedio o avanzado. Compartimos
+información, conocimientos y experiencias relacionadas a [Python](https://www.python.org/).
