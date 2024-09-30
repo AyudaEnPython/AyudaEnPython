@@ -2,7 +2,7 @@
 
 -- Comunicado para todos los miembros de la comunidad --
 
-Seguimos adelante con nuestra propuesta de realizar videoconferencias y, Hasta el momento los detalles sobre ellas son las siguientes:
+Seguimos adelante con nuestra propuesta de realizar videoconferencias y, hasta el momento, los detalles sobre ellas son las siguientes:
 
 - Editor: Visual Studio Code (VS Code)
 - Días: Miércoles
@@ -16,6 +16,6 @@ Lo más probable es que iniciemos a mediados de quincena de mes y, antes de ello
 
 ---
 
-Sus opiniones son muy importantes para nosotros. Si tienen otras sugerencias sobre cómo podemos la participación y el valor de este grupo, ¡no duden en compartirlas!
+Sus opiniones son muy importantes para nosotros. Si tienen otras sugerencias sobre cómo podemos mejorar la participación y el valor de este grupo, ¡no duden en compartirlas!
 
 ![](./assets/2024-09-29-videoconference_update_1.png)
