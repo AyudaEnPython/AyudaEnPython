@@ -1,4 +1,4 @@
-![maintenance](https://img.shields.io/maintenance/yes/2024)
+![maintenance](https://img.shields.io/maintenance/yes/2025)
 [![Ayuda en Python CI](https://github.com/AyudaEnPython/AyudaEnPython/actions/workflows/main.yml/badge.svg)](https://github.com/AyudaEnPython/AyudaEnPython/actions/workflows/main.yml)
 
      _____           _        _____        _____     _   _           
