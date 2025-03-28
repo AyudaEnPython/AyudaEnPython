@@ -19,3 +19,5 @@ https://github.com/AyudaEnPython/AyudaEnPython/blob/main/_readme/reglas.md
 ---
 
 A nuestros demás miembros les pedimos que REPORTEN a aquellos que le dan "ME DIVIERTE" en sus publicaciones.
+
+![reacciones](./assets/2022-06-02-sobre-las-reacciones.png)

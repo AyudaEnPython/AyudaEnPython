@@ -7,3 +7,5 @@ Hemos actualizado las reglas con respecto a las solicitudes de participación en
 - Cuentas recién creadas, secundarias y/o falsas serán rechazadas automáticamente.
 
 NOTA: No escriban al interno pidiendo ayuda (no se les responderá), todo háganlo a través del grupo.
+
+![solicitudes](./assets/2022-04-26-sobre-las-solicitures.png)

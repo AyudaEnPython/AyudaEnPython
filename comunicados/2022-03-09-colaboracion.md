@@ -10,3 +10,5 @@ Seguimos creciendo a buen ritmo y por la misma razón necesitamos más personas 
 Si compartes las mismas ganas de ayudar y quieres empezar a contribuir en este proyecto, te invitamos a unirte a nuestro equipo.
 
 Deja un comentario indicándonos en que te gustaría apoyarnos.
+
+![colaboración](./assets/2022-03-09-colaboracion.png)

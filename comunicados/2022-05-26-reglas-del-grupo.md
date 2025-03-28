@@ -7,3 +7,5 @@ En el transcurso de estos días también eliminaremos y bloquearemos a los miemb
 Nos esforzamos en mantener una comunidad lo más saludable posible, sin spam, contenido irrelevante y/o que contenga malas prácticas.
 
 Nota: Aceptamos cualquier sugerencia.
+
+![reglas](./assets/2022-05-26-reglas-del-grupo.png)

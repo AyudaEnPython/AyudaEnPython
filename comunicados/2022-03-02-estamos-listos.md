@@ -9,3 +9,5 @@ Gracias a todos por ser parte de esta comunidad, seguimos creciendo día a día,
 ---
 
 Sitio web: https://ayudaenpython.com/
+
+![estamos_listos](./assets/2022-03-02-estamos-listos.png)
