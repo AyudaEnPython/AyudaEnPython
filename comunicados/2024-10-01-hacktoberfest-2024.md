@@ -49,3 +49,5 @@ Solo necesitan una cuenta en GitHub o GitLab y registrarse en:
 
 Al concluir el evento podrán recibir varios premios digitales (para más información
 pueden consultar el enlace anterior).
+
+![hacktoberfest2024](./assets/2024-10-01-hacktoberfest-2024.png)
